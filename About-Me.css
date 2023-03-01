@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 919px;
+  min-height: 974px;
 }
 
 .u-section-1 .u-group-elements-1 {
@@ -37,7 +37,7 @@
 .u-section-1 .u-text-3 {
   font-size: 1.25rem;
   line-height: 1.6;
-  margin: 26px 0 25px;
+  margin: 26px 0 50px;
 }
 
 @media (max-width: 991px) {
@@ -54,7 +54,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 895px;
+    min-height: 950px;
   }
 
   .u-section-1 .u-group-elements-1 {
