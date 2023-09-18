@@ -40,6 +40,11 @@
   margin: 26px 0 50px;
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 991px) {
   .u-section-1 .u-group-elements-1 {
     width: 720px;
